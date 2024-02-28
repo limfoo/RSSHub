@@ -3165,6 +3165,9 @@
         "hnrainll"
     ],
     "/hatena/anonymous_diary/archive": [],
+    "/hbooker/chapter/:id": [
+        "keocheung"
+    ],
     "/hbr/topic/:topic?/:type?": [
         "nczitzk"
     ],
@@ -6035,6 +6038,9 @@
         "fuzy112"
     ],
     "/sexinsex/:id/:type?": [],
+    "/sfacg/novel/chapter/:id": [
+        "keocheung"
+    ],
     "/shanbay/checkin/:id": [],
     "/shanbay/footprints/:category?": [],
     "/shanghaitech/activity": [],
@@ -6863,6 +6869,9 @@
     ],
     "/tucaoqq/post/:project/:key": [],
     "/tvb/news/:category?/:language?": [
+        "nczitzk"
+    ],
+    "/tvtropes/featured/:category?": [
         "nczitzk"
     ],
     "/twitch/live/:login": [
@@ -7917,6 +7926,9 @@
     "/zongheng/chapter/:id": [],
     "/zotero/versions": [
         "jasongzy"
+    ],
+    "/zrblog": [
+        "cnkmmk"
     ],
     "/zreading": [],
     "/zsnews/index/:cateid": [],
