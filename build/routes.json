@@ -54316,7 +54316,7 @@
           "CYTMWIA"
         ],
         "url": "swpu.edu.cn/",
-        "description": "| 栏目 | 重要通知公告 | 部门通知公告 | 本周活动 | 学术报告 |\n  | ---- | ------------ | ------------ | -------- | -------- |\n  | 代码 | zytzgg       | bmtzgg       | bzhd     | xsbg     |",
+        "description": "| 栏目 | 重要通知公告 | 部门通知公告 | 本周活动 |\n  | ---- | ------------ | ------------ | -------- |\n  | 代码 | zytzgg       | bmtzgg       | bzhd     |",
         "location": "bgw.ts"
       },
       "/cjxy/:code": {
@@ -54476,7 +54476,7 @@
             "target": ""
           }
         ],
-        "name": "计算机科学学院",
+        "name": "计算机与软件学院",
         "maintainers": [
           "CYTMWIA"
         ],
@@ -55860,25 +55860,33 @@
         "parameters": {
           "channel": "类型，见下表，默认为快讯"
         },
-        "features": {
-          "requireConfig": false,
-          "requirePuppeteer": false,
-          "antiCrawler": false,
-          "supportBT": false,
-          "supportPodcast": false,
-          "supportScihub": false
-        },
         "name": "新闻快讯",
         "maintainers": [
           "Fatpandac",
           "jameshih"
         ],
+        "radar": [
+          {
+            "title": "文章",
+            "source": [
+              "www.theblockbeats.info/article"
+            ],
+            "target": "/article"
+          },
+          {
+            "title": "快讯",
+            "source": [
+              "www.theblockbeats.info/newsflash"
+            ],
+            "target": "/newsflash"
+          }
+        ],
         "description": "|    快讯   |   文章  |\n  | :-------: | :-----: |\n  | newsflash | article |",
         "location": "index.ts"
       }
     },
-    "name": "律动",
-    "url": "rszhaopin.theblockbeats.info"
+    "name": "律动 BlockBeats",
+    "url": "www.theblockbeats.info"
   },
   "thecover": {
     "routes": {

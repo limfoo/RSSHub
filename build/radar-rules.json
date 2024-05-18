@@ -15110,7 +15110,7 @@
         "target": "/swpu/is/:code"
       },
       {
-        "title": "计算机科学学院",
+        "title": "计算机与软件学院",
         "docs": "https://docs.rsshub.app/routes/university",
         "source": [
           "/"
@@ -15429,6 +15429,27 @@
           "/:category"
         ],
         "target": "/theatlantic/:category"
+      }
+    ]
+  },
+  "theblockbeats.info": {
+    "_name": "律动 BlockBeats",
+    "www": [
+      {
+        "title": "文章",
+        "docs": "https://docs.rsshub.app/routes/finance",
+        "source": [
+          "/article"
+        ],
+        "target": "/theblockbeats/article"
+      },
+      {
+        "title": "快讯",
+        "docs": "https://docs.rsshub.app/routes/finance",
+        "source": [
+          "/newsflash"
+        ],
+        "target": "/theblockbeats/newsflash"
       }
     ]
   },
