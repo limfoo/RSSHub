@@ -182,6 +182,12 @@
   "/4gamers/topic/:topic": [
     "bestpika"
   ],
+  "/4khd/category/:category": [
+    "AiraNadih"
+  ],
+  "/4khd/": [
+    "AiraNadih"
+  ],
   "/4ksj/:id?": [
     "nczitzk"
   ],
@@ -1053,6 +1059,15 @@
   "/buaa/news/:type": [
     "AlanDecode"
   ],
+  "/buct/cist": [
+    "Epic-Creeper"
+  ],
+  "/buct/gr/:type": [
+    "Epic-Creeper"
+  ],
+  "/buct/jwc": [
+    "Epic-Creeper"
+  ],
   "/bugzilla/bug/:site/:bugId": [
     "FranklinYu"
   ],
@@ -1675,7 +1690,8 @@
     "Ovler-Young"
   ],
   "/cursor/changelog": [
-    "p3psi-boo"
+    "p3psi-boo",
+    "nczitzk"
   ],
   "/cw/author/:channel": [
     "TonyRL"
@@ -2606,8 +2622,9 @@
   "/gcores/radios/:category?": [
     "eternasuno"
   ],
-  "/gcores/tag/:tag/:category?": [
-    "StevenRCE0"
+  "/gcores/tags/:id/:tab?": [
+    "StevenRCE0",
+    "nczitzk"
   ],
   "/gdsrx/:id?": [],
   "/gdufs/news": [
@@ -3777,8 +3794,15 @@
   "/investor/:category{.+}?": [
     "nczitzk"
   ],
+  "/iplaysoft/category/:slug": [
+    "cscnk52"
+  ],
   "/iplaysoft/": [
-    "williamgateszhao"
+    "williamgateszhao",
+    "cscnk52"
+  ],
+  "/iplaysoft/tag/:slug": [
+    "cscnk52"
   ],
   "/ippa/": [
     "cnkmmk"
@@ -4207,8 +4231,15 @@
   "/lala/": [
     "cnkmmk"
   ],
+  "/landiannews/category/:slug": [
+    "cscnk52"
+  ],
   "/landiannews/": [
-    "nczitzk"
+    "nczitzk",
+    "cscnk52"
+  ],
+  "/landiannews/tag/:slug": [
+    "cscnk52"
   ],
   "/lang/live/room/:id": [
     "MittWillson"
